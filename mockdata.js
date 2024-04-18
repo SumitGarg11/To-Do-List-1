@@ -1,0 +1,1 @@
+ export const LOGO_URL = "https://img.freepik.com/free-vector/online-document-form-digital-agreement-electronic-contract-internet-questionnaire-list-note-voting-ballot-poll-flat-design-element-concept-illustration_335657-2013.jpg";
