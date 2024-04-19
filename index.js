@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import ReactDOM from "react-dom";
-import { LOGO_URL } from "./utils/mockdata";
+import { LOGO_URL } from "./mockdata";
 
 const TaskAdd = ({ onAdd }) => {
   const [inputData, setInputData] = useState("");
